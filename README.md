@@ -1,7 +1,5 @@
 # NexusAI - Professional Grade AI Image Generation
 
-![NexusAI Banner](https://raw.githubusercontent.com/Flame-Codes/NexusAi-Saas/main/public/banner.svg)
-
 <p align="center">
   <a href="https://github.com/Flame-Codes/NexusAi-Saas/stargazers">
     <img src="https://img.shields.io/github/stars/Flame-Codes/NexusAi-Saas?style=for-the-badge" alt="GitHub Stars">
