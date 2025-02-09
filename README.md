@@ -156,7 +156,3 @@ For questions, feedback, or collaboration, feel free to reach out:
 - **Website**: [https://nexusai-saas.vercel.app](https://nexusai-saas.vercel.app)
 
 ---
-
-<p align="center">
-  Made by <a href="https://github.com/Flame-Codes">Flame Codes</a>
-</p>
